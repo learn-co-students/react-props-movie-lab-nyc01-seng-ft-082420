@@ -6,10 +6,9 @@ const movieData = [
     poster: 'choux-maru-istanbul'
   },
   {
-    title: 'Choux and Maru',
     IMDBRating: 4,
-    genres: ['cats', 'drama', 'romance'],
-    poster: 'choux-maru-part-1'
+    genres: ["hi"],
+    poster: null
   },
   {
     title: 'ChromeBoi',
@@ -20,7 +19,7 @@ const movieData = [
   
   {
     title: 'Escape from VIM',
-    IMDBRating: 0,
+    IMDBRating: null,
     genres: ['an awful movie'],
     poster: 'escape-from-vim'
   },
@@ -53,6 +52,8 @@ const movieData = [
     IMDBRating: 5,
     genres: ['crime', 'period piece'],
     poster: 'the-trash-man'
+  },
+  {
   },
 ]
 
